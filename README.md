@@ -11,7 +11,9 @@ Com o **ESP-01** e um módulo relé, é possível ligar e desligar sua lâmpada 
 🔥 Que tal deixar sua casa mais inteligente com essa ideia?
 
 .
+
 .
+
 .
 
 #automacaoresidencial #iotbrasil #casainteligente #arduinoiot #esp8266 #projetosiot #makerbrasil #tecnologiacriativa #automacao #programacaoembarcarda #arduinoide
